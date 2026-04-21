@@ -1,0 +1,18 @@
+# Raw data files (too large for GitHub)
+data/raw/
+data/clean/
+
+# Database file (too large)
+database/patents.db
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# VS Code settings
+.vscode/
+
+# Windows junk
+Thumbs.db
+desktop.ini
